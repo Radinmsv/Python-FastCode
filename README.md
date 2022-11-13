@@ -5,5 +5,5 @@ Still in Coding stage &#9881;
 ___
 # TO-DO List
 ### 1. Main functionality ✓
-### 2. More Templates ✖
-### 3. GUI ✖
+### 2. More Templates ✕
+### 3. GUI ✕
